@@ -15,7 +15,7 @@ const Header = props => {
 
 const styles = StyleSheet.create({
   viewStyle: {
-    backgroundColor: 'red',
+    backgroundColor: '#ccc',
     justifyContent: 'center',
     alignItems: 'center',
     height: 60,
